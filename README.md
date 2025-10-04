@@ -1,4 +1,4 @@
-# Supervisor AI Researcher
+# Supervisor Agent architecture - AI Researcher
 Supervisor RAG architectur - AI Researcher
 
 
