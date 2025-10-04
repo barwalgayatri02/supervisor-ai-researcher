@@ -11,5 +11,8 @@ Supervisor RAG architectur - AI Researcher
 
 <img width="737" height="521" alt="image" src="https://github.com/user-attachments/assets/a0455b0d-bec3-43a3-b589-5edfef71943d" />
 
-![Uploading image.png…]()
+<img width="651" height="632" alt="image" src="https://github.com/user-attachments/assets/d3d1149b-eddd-45f0-ac48-faab85b93a76" />
+
+
+
 
